@@ -82,12 +82,12 @@ Este projeto foi uma oportunidade de aprofundar conhecimentos em algoritmos grá
 ### Tela Inicial
 A tela inicial apresenta a interface do Cub3D, preparando o jogador para entrar no ambiente 3D.
 
-![Tela Inicial](./screenshots/screenshot1.png)
+![Tela Inicial](./screenshot1.png)
 
 ### Jogo em Execução
 Abaixo está uma captura do jogo em ação, mostrando o ambiente 3D renderizado com raycasting.
 
-![Jogo em Execução](./screenshots/screenshot2.png)
+![Jogo em Execução](./screenshot2.png)
 
 *Nota*: Certifique-se de que os arquivos `screenshot1.png` e `screenshot2.png` estão na pasta `screenshots/` do repositório para exibição correta no GitHub.
 
