@@ -1,10 +1,9 @@
-# Cub3D
+# Map Cub
 
 ## Visão Geral
 
-**Cub3D** é um projeto desenvolvido como parte do currículo da 42, inspirado no clássico jogo Wolfenstein 3D. Utilizando a técnica de raycasting, este jogo renderiza um ambiente 3D a partir de um mapa 2D definido em um arquivo `.cub`. O projeto permite ao jogador explorar um labirinto com paredes texturizadas, chão e teto coloridos, usando controles intuitivos para movimentação e rotação. O objetivo é criar uma experiência imersiva de exploração 3D, demonstrando habilidades em programação em C, manipulação de gráficos e parsing de arquivos.
+**Map Cub** é um projeto inspirado no clássico jogo Wolfenstein 3D. Utilizando a técnica de raycasting, este jogo renderiza um ambiente 3D a partir de um mapa 2D definido em um arquivo `.cub`. O projeto permite ao jogador explorar um labirinto com paredes texturizadas, chão e teto coloridos, usando controles intuitivos para movimentação e rotação. O objetivo é criar uma experiência imersiva de exploração 3D, demonstrando habilidades em programação em C, manipulação de gráficos e parsing de arquivos.
 
-Este projeto foi uma oportunidade de aprofundar conhecimentos em algoritmos gráficos, gerenciamento de eventos de teclado e mouse, e desenvolvimento de jogos, conectando-se à minha experiência em projetos interativos como o **MapaZZZ** (desenvolvido no hackathon da 42 Luanda), onde trabalhei com mapas dinâmicos e interatividade.
 
 ## Funcionalidades
 
@@ -137,10 +136,6 @@ Abaixo está uma captura do jogo em ação, mostrando o ambiente 3D renderizado 
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
-## Conexão com Outros Projetos
-
-O desenvolvimento do Cub3D reflete minha experiência em projetos interativos com mapas, como o **MapaZZZ**, criado durante o hackathon da 42 Luanda. No MapaZZZ, implementei um mapa interativo com frontend e backend, usando uma matriz semelhante à do Cub3D para representar o ambiente. Essa experiência foi essencial para entender parsing de mapas e renderização dinâmica, habilidades aplicadas aqui.
 
 ## Contato
 
